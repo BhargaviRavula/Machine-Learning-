@@ -1,0 +1,8 @@
+Accuracy of  tree constructed using information gain before pruning: 72.33333333333333%
+
+Accuracy of  tree constructed using information gain after pruning with L = 2 and K = 5 is 72.33333333333333%
+
+Accuracy of  tree constructed using impurity gain before pruning: 69.0%
+
+Accuracy of tree constructed using impurity gain after pruning: with L = 2 and K = 5 is 69.0%
+
