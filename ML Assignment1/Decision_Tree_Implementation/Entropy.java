@@ -8,7 +8,7 @@ import java.io.FileReader;
 /**
  * Class to implement the program of decision trees. Contains the main method
  *
- * @author Sreesha.Nagaraj
+ * @author Bhargavi Ravula
  *
  */
 public class Entropy {
